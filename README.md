@@ -1,2 +1,24 @@
-# stm32-learning
-My STM32 embedded programming learning project
+
+# STM32 学习与实践
+
+## 项目简介
+这是我学习 STM32 嵌入式开发的个人项目仓库。
+
+## 学习内容
+- STM32 开发环境配置
+- GPIO 与 LED 控制
+- C 语言嵌入式编程
+- 后续的传感器和小车控制
+
+## 当前进度
+- [x] 安装 Keil MDK5 开发环境
+- [x] 创建 STM32 工程
+- [ ] 成功点亮 LED
+- [ ] 完成 LED 闪烁控制
+
+## 开发工具
+- Keil MDK5
+- STM32 开发板（具体型号待确认）
+
+## 项目说明
+本仓库用于记录学习过程、程序代码和实际调试结果。
